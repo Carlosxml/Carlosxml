@@ -53,27 +53,3 @@ Sempre há algo novo para aprender  foguete
 
 
 
-<p align = "center">
-
-  <a href=" https://github.com/Carlosxml/Carlos.html/edit/main/README.md "> <img src = " https://github-readme-stats.vercel.app/api/top -langs /? username = Carlosxml & layout = compact & theme = dark "/> </ a >
-  
-  <a href=" https://github.com/Carlosxml"> <img src = " https://github-readme-stats.vercel.app/api?username=Carlosxml&show_icons=true&theme=dark&include_all_commits=true&count_private=true " alt = "Carlosxml" /> </a>
-
-</p> 
-
-
-
-
-## Entre em contato comigo 
-
-[! [Github Badge] ( https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/Carlosxml )
-[! [Youtube Badge] ( https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/ videos)] (https://m.youtube.com/channel/UC8ASaQmJoDwTN-Y5vvyBQxQ )
-[! [Emblema do Linkedin] ( https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/ carlos-ant% C3% B4nio-9a64a274 / )
-
-
-
- 
-! [Animação de cobra] ( https://github.com/Carlosxml/Carlosxml/blob/output/github-contribution-grid-snake.svg )
-
-- Obrigado pela visita e fiquem a vontade de melhorar meus códigos, toda contribuição é válida !! 
-
