@@ -12,7 +12,7 @@
 
 • 🎒  Graduando em Analise e desenvolvimento de sistemas na universidade Paulista Unip.  
 
-• 💜  Desenvolvedor front end: experiencia com HTML CSS e JAVASCRIPT, DICIONÁRIO, XML, PROGRAMA/SUBPROGRAMA
+• 💜  Desenvolvedor front end: experiencia com HTML CSS e JAVASCRIPT,TYPESCRIPT, DICIONÁRIO, XML, PROGRAMA/SUBPROGRAMA
 
 • 👨‍💻  Estou aprendendo: Angular , Github,java
 
