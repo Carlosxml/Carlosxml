@@ -3,7 +3,7 @@
 
 ## Olá, Mundo!  🌎  Seja bem-vindo(a)
 <img align='right' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="380" height="200">
-<img align='right' src="https://user-images.githubusercontent.com/80995768/124160033-32e61b00-da72-11eb-90bd-56b6752459d1.png"
+
 
 #### Prazer, Sou o Carlos! Um cara que ama tecnologia  👨‍💻
 
