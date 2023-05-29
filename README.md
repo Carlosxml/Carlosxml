@@ -46,20 +46,20 @@ There is always something new to learn  🚀
 
 
 **Contato**
+ <div> 
+  <a href = "ne.carlinhos01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carlos-ant%C3%B4nio-da-silva-lima-9a64a274/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
+    
+    
+    
 
   </div>
-
-
-
   <a href="https://github.com/Carlosxml/Carlos.html/edit/main/README.md "><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosxml&layout=compact&theme=dark"/></a> 
-
   <a href="https://github.com/Carlosxml"><img src="https://github-readme-stats.vercel.app/api?username=Carlosxml&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Carlosxml"/></a>
-
 </p> 
-
-
-
-<div>
+  <div>
  
  
 
