@@ -49,7 +49,8 @@ There is always something new to learn  🚀
   <a href="https://www.linkedin.com/in/carlos-ant%C3%B4nio-da-silva-lima-9a64a274/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UC8ASaQmJoDwTN-Y5vvyBQxQ" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
    
- 
+ <img align='left' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="380" height="200">
+  <div>
 </div>
 <br>
 
