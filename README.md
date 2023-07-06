@@ -51,20 +51,6 @@ There is always something new to learn  🚀
    
  
 </div>
-    
-    
-    
-
-  </div>
-  <a href="https://github.com/Carlosxml/Carlos.html/edit/main/README.md "><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosxml&layout=compact&theme=dark"/></a> <br>
-  <a href="https://github.com/Carlosxml"><img src="https://github-readme-stats.vercel.app/api?username=Carlosxml&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Carlosxml"/></a>
-</p> 
-<img align='left' src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="380" height="200">
-  <div>
- 
- 
-
-
   
 </div>
  <br>
