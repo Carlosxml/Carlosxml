@@ -67,8 +67,6 @@ There is always something new to learn  🚀
 </div>
  
   
- 
-</div>
 
 
 
